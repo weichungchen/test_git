@@ -1,2 +1,5 @@
+FIXED CONFLICT
 still in 2nd branch, test2_2, WEEEEEEEEEEEEE
+3rd modified in main branch
+still in 2nd branch, test2_2
 in 2nd branch, test2_2
